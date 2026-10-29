@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+*/.DS_Store
+/build
+/app/build
+captures/
+.externalNativeBuild
+.cxx
+local.properties
+.kotlin
+
+# Keystore and signing keys
+keystore.properties
+*.jks
+*.keystore
+
+# Claude / temporary demo output
+.claude/
+brag-output/
+brag-output-*/
